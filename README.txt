@@ -1,0 +1,1 @@
+A simple implementation of a game of blackjack with an added tool for learning to count cards.
